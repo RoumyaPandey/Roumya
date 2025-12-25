@@ -1,4 +1,4 @@
-# Roumya
+# GROMACS
 # GROMACS MD Trajectory Analysis
 
 Basic scripts and workflows for analyzing molecular dynamics simulations
